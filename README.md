@@ -1,6 +1,10 @@
 # DDoS by John
 This is the most easiest DDoS toolkit to take down a websites
 
+# Demo
+
+<img src="https://i.ibb.co/XJrDLn3/IMG-20230607-140138-548.jpg"  border="0" style="height: 200px" width="100%">
+
 # Instillation termux
 
 [~] termux-setup-storage
@@ -28,3 +32,9 @@ This is the most easiest DDoS toolkit to take down a websites
 # Run using python2 or python3
 
 [~] python3 ddos.py
+
+
+
+# Disclaimer
+This toolkit build for educational purposes only.
+
