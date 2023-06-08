@@ -23,9 +23,9 @@ This is the most easiest DDoS toolkit to take down a websites
 
 [~] pkg install python3 -y
 
-[~] git clone https://github.com/Th30n34nD0n1yJ0hN/DDoS_by_john.git
+[~] git clone https://github.com/Th30n34nD0n1yJ0hN/DDoS_by_John.git
 
-[~] cd DDoS_by_john
+[~] cd DDoS_by_John
 
 [~] pip install -r requirements.txt
 
