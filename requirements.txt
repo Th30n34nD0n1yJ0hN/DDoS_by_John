@@ -1,0 +1,5 @@
+colorama
+click
+requests
+fake_headers
+pycryptodome
