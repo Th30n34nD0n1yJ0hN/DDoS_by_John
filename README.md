@@ -31,7 +31,7 @@ This is the most easiest DDoS toolkit to take down a websites
 
 # Run using python2 or python3
 
-[~] python3 ddos.py
+[~] python3 DD💀S.py
 
 
 
